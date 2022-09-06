@@ -1,0 +1,28 @@
+.Blog__wrapper{
+    padding-bottom: 10%;
+}
+.Blog__title{
+    margin-left: 8%;
+}
+.Blog__title--para{
+    width: 30%;
+    font-size: 0.9rem;
+}
+.Blog__content{
+    border: none;
+}
+.Blog__date{
+    font-size: 0.8rem;
+}
+.Blog__news{
+    font-size: 0.9rem;
+}
+.Blog__btn{
+    background-color: aquamarine;
+    color: blue;
+    border: none;
+}
+.Blog__btn:hover{
+    background-color: aquamarine;
+    color: blue;
+}

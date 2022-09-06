@@ -1,0 +1,24 @@
+.Title__wrapper{
+    position: relative;
+}
+.Title__para{
+    font-weight: 600;
+    font-size: 1.3rem;
+    
+    margin-left: 10%;
+}
+.Title__line{
+    border-top: 6px solid #000;
+    width: 70px;
+    /* height: 3px;
+    background-color: red; */
+    position: absolute;
+    top: 15px;
+    left: 0;
+   
+
+}
+.Title__wrapper h2{
+    font-size: 1.4rem;
+    font-weight: 600;
+}

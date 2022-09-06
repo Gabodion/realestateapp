@@ -1,0 +1,22 @@
+.Hero__container{
+    background-color: rgb(228, 240, 240);
+}
+.Hero__heading{
+    line-height: 1.5;
+    font-size: 3rem;
+}
+.Hero__heading--par{
+    font-size: 0.9rem;
+    margin-top: 8%;
+    line-height: 2;
+    color: #000;
+}
+.Hero__heading--btn{
+    padding: 12px 36px;
+  
+}
+.Hero__num{
+    align-items: center;
+    justify-content: space-between;
+    margin: 8% 0;
+}

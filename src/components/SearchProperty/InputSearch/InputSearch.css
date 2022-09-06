@@ -1,0 +1,22 @@
+.Input__container{
+    margin-right: 3%;
+}
+.input-box{
+    /* width: 250px; */
+    padding: 10px;
+    color: #000;
+    border-radius: 5px;
+    border: 2px solid lightgrey;
+  
+    
+
+}
+.input-icon{
+    position: relative;
+    left: 200px;
+}
+::placeholder{
+    color: #000;
+    font-weight: 600;
+    
+}

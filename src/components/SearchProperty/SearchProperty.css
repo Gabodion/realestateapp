@@ -1,0 +1,27 @@
+.Search__wrapper{
+    background-color: #fff;
+    padding: 40px 20px;
+    /* border: 2px solid grey; */
+    width: 75%;
+    margin: 0 auto;
+    position: relative;
+    bottom: 100px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 4px lightgrey;
+    margin-bottom: 15%;
+}
+.Search__wrapper h2{
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-left: 1%;
+    margin-bottom: 3%;
+}
+.Search__input{
+    /* display: grid;
+    grid-template-columns: repeat(4, 1fr); */
+    display: flex;
+    
+}
+.Search__input-box{
+    margin-right: 10%;
+}

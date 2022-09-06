@@ -1,0 +1,28 @@
+.Property__wrapper{
+    position: relative;
+}
+.Property__body{
+    padding: 20px;
+}
+.Property__body--top h5{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.Property__body--features{
+    color: gray;
+}
+.Property__btn{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: none;
+}
+.Property__agent img{
+    width: 50px;
+    height: 45px;
+    border-radius: 48%;
+}
+.Property__agent span{
+    font-weight: 600;
+    font-size: 1rem;
+}

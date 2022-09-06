@@ -1,0 +1,18 @@
+.Testimonial__wrapper{
+    background-color: #141E27;
+    color: #fff;
+    padding: 5% 0;
+}
+.Testimonial__wrapper .Title__line{
+    border-color: #fff;
+}
+.Testimonial__title{
+    margin-left: 8%;
+    
+}
+.Testimonial__container{
+    padding: 8% 0;
+}
+.Testimonial__quote{
+    font-size: 0.9rem;
+}
